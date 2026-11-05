@@ -8,7 +8,7 @@
   "server": {
     "ip":" tkk1-zhij.aternos.me"
     "port": 24908,
-    "version": "26.3"
+    "version": "1.20.1"
   },
   "position": {
     "enabled": true,
