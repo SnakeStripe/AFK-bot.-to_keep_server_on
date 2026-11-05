@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": tkk1-zhij.aternos.me
+    "ip":" tkk1-zhij.aternos.me"
     "port": 24908,
-    "version": "1.21.1"
+    "version": "26.3"
   },
   "position": {
     "enabled": true,
